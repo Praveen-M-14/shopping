@@ -83,12 +83,12 @@ WSGI_APPLICATION = 'shopping.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME':'newdb',
-        'HOST':'localhost',
-        'USER':'root',
-        'PASSWORD':'Praveen14032004@',
-        'PORT':'3306',
+        'ENGINE':,
+        'NAME':,
+        'HOST':,
+        'USER':,
+        'PASSWORD':,
+        'PORT':,
 
 
     }
